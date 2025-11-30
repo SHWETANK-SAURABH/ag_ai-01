@@ -1,0 +1,1 @@
+"""Tools package for Life Admin Task Automator."""
